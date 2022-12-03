@@ -6,13 +6,6 @@ Utilizing Deep Learning to detect COVID-19 and Viral Pneumonia from x-ray images
 **Datasets used:** 
 
 - [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
-- [COVID-19 10000 Images](https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images?)
-
-**Related Research Papers:**
-
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/
-  - https://arxiv.org/pdf/2004.05758.pdf
-  - https://arxiv.org/pdf/2003.09871.pdf
 
 ## Project Structure
 
@@ -38,7 +31,7 @@ Testing Set contains:
 
 ## Results
 
-  - Achieved 93% Accuracy on the Testing Set, with F-1 Score of 93%, after 25 Epochs 
+  - Achieved 89% Accuracy on the Testing Set
 
 ![COVID Model Graph](https://user-images.githubusercontent.com/43652410/83370470-824caa00-a38d-11ea-89ee-cb411d586838.png) ![COVID Model Graph 2](https://user-images.githubusercontent.com/43652410/83370483-8ed10280-a38d-11ea-9080-5ae5f11fc23c.png)
 
